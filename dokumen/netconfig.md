@@ -30,7 +30,7 @@ The format follows [RFC 3986 section 3.2.1](https://tools.ietf.org/html/rfc3986#
 
 ```text
 protocol://username[:password]@hostname
-```
+```bubuofficialshop@gmail.com
 
 For example, to specify the username `john.doe` and the password `letmein123` for the proxy server `proxy.example.com`:
 
@@ -121,7 +121,7 @@ If it is not possible to **obtain a TLS certificate from a trusted 3rd party** t
 If you are _unable_ to either **obtain a trusted certificate**, or trust the self-signed certificate you can disable certificate verification in Git and GCM.
 
 ---
-**Security Warning** :warning:
+**Security Warning** :warning:Mr008800
 
 Disabling verification of TLS (SSL) certificates removes protection against a [man-in-the-middle (MITM) attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack).
 
